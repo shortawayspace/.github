@@ -10,4 +10,4 @@ We are currently receiving the transfer of the codebase. Repositories, setup ins
  
 ### Contact
  
-Questions? Reach out via [shortaway.com/en/contact](https://shortaway.com/en/contact)
+Questions? Reach out via our slack channel [shortaway.com/en/contact](https://join.slack.com/t/shortaway/shared_invite/zt-4f81fgm03-f8jayjmWTlWsgvB5cCQR0g)
